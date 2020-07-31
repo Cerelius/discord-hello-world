@@ -1,0 +1,27 @@
+{
+  "name": "discord-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "discord-hello-world-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cerelius/discord-hello-world.git"
+  },
+  "keywords": [
+    "Jason",
+    "True",
+    "Cerelius"
+  ],
+  "author": "Jason True, Cerelius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cerelius/discord-hello-world/issues"
+  },
+  "homepage": "https://github.com/Cerelius/discord-hello-world#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
