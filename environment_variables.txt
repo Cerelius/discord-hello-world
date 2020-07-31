@@ -1,7 +1,0 @@
-Client ID : 738518181139841165
-
-Client Secret : uY_iRDAeoswfoMhK150PgVsHLKJwIMHi
-
-Invite Link : https://discord.com/api/oauth2/authorize?client_id=738518181139841165&scope=bot&permissions=1
-
-Application Token : NzM4NTE4MTgxMTM5ODQxMTY1.XyNEpw.xLcAucEtZ0vbfrQcdoGaawf2eis
